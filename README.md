@@ -43,15 +43,16 @@ Scenario 2: Dmoney API JMeter Testing
 3. Open the `Reports` folder to view the HTML report.
 
 ## Load Test Report: (Booking)
-<img width="459" alt="Screenshot 2024-09-16 122613" src="https://github.com/user-attachments/assets/22519ebe-e445-4588-8c3b-cf424938cb98">
-<img width="761" alt="load-test-summary-report-of-booking" src="https://github.com/user-attachments/assets/b1f59670-1ac3-414b-85a7-e5e901404501">
-<img width="759" alt="load-test-statistics-of-boking" src="https://github.com/user-attachments/assets/f0086a3f-5d90-4911-8936-23c5b505d045">
+<img width="459" alt="Screenshot 2024-09-16 122613" src="https://github.com/user-attachments/assets/70331cb6-7579-4d12-beb0-78a7652484cf">
+<img width="761" alt="load-test-summary-report-of-booking" src="https://github.com/user-attachments/assets/a0dd867a-d93f-4095-9104-0f3398894d6a">
+<img width="759" alt="load-test-statistics-of-boking" src="https://github.com/user-attachments/assets/041cb435-8ff9-4e17-a4e1-8b2bc075be19">
+
 
 ## Stress Test Report: (Booking)
-<img width="573" alt="Screenshot 2024-09-15 225829" src="https://github.com/user-attachments/assets/e1ebba3b-db75-4f09-9711-55646edd2009">
-<img width="764" alt="Screenshot 2024-09-16 014951" src="https://github.com/user-attachments/assets/8a0871ee-dc9a-4e76-9d86-f1640ee4a2f3">
-<img width="762" alt="Screenshot 2024-09-16 015021" src="https://github.com/user-attachments/assets/f91e7ace-23d1-4121-bfa7-990d6172e5f9">
+<img width="573" alt="Screenshot 2024-09-15 225829" src="https://github.com/user-attachments/assets/79a8fa5a-ddb1-4043-9916-ff8203d37808">
+<img width="764" alt="Screenshot 2024-09-16 014951" src="https://github.com/user-attachments/assets/5cf62531-ee0c-49fe-9132-282869a94233">
+<img width="762" alt="Screenshot 2024-09-16 015021" src="https://github.com/user-attachments/assets/ae1c376b-dd28-4766-a06f-d6bccc0d9be6">
 
 ## Test Report: (dmoney)
-<img width="761" alt="Summary-report-of-dmoney" src="https://github.com/user-attachments/assets/9453dbb6-81ab-4ead-882b-13ba9444df09">
-<img width="761" alt="Statistics-of-dmoney" src="https://github.com/user-attachments/assets/36ff7578-9697-4089-8614-0610aae799d1">
+<img width="761" alt="Summary-report-of-dmoney" src="https://github.com/user-attachments/assets/e7ca1f5a-19d1-47c6-ad07-fe2dfcf42531">
+<img width="761" alt="Statistics-of-dmoney" src="https://github.com/user-attachments/assets/cb175676-9d97-4b85-8fa2-e00bfe51eb3c">
